@@ -1,2 +1,0 @@
-# imdb-scrapper
-imdb webscrapper
