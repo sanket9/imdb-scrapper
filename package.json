@@ -1,0 +1,20 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "description": "a web scrapper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "express": "^4.16.3",
+    "cheerio": "^1.0.0-rc.2",
+    "nodemon": "^1.17.5",
+    "cors": "^2.8.4"
+  },
+  "keywords": []
+}
